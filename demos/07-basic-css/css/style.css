@@ -1,0 +1,23 @@
+#first-paragraph {
+    color: blue;
+    background-color: goldenrod;
+}
+
+#second-paragraph {
+    color: #FF0000;
+    background-color: lightpink;
+}
+
+#bold-paragraph {
+    font-weight: bold;
+    font-size: 24px;
+    font-style: italic;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+
+#link {
+    text-decoration: none;
+    color: green;
+}
