@@ -26,12 +26,11 @@
     padding: 15px;
 } */
 
-#d4-container-1 {
-    padding: 24px;
-}
 
-#d4-div-1 {
-    padding-bottom: 24px;
+
+.d4-div {
+    padding: 48px;
+    border: 5px solid black
 }
 
 /* Drill 5 - Write your code solution below */
