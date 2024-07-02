@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Permanent+Marker&display=swap');
+
+h1 {
+    font-family: "Permanent Marker", cursive;
+}
+
+p {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 700;
+}
+
+img {
+    width: 100px;
+}
