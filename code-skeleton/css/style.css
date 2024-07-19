@@ -1,0 +1,15 @@
+h1 {
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#layout {
+    text-align: center;
+    margin: 48px auto;
+    width: 800px;
+}
